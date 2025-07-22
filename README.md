@@ -32,7 +32,7 @@ Reverse shell from 10.251.96.5 → 10.251.96.4
 
 Commands: id, whoami, Python callback
 
-🛠️ Tools & Techniques
+Tools & Techniques
 Wireshark for full PCAP analysis
 
 Manual TCP stream inspection
